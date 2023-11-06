@@ -89,9 +89,6 @@ src: ./pages/21_Iterator.md
 src: ./pages/22_Cover Exercise.md
 ---
 ---
-src: ./pages/27_Snippets.md
----
----
 src: ./pages/23_Exercise.md
 ---
 ---
